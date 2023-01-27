@@ -1,0 +1,40 @@
+div{
+    width: 387px;
+    height: 560px;
+    border: black solid 5px;
+    padding: 10px;
+    float: left;
+    border-radius: 10px;
+    margin-left: 2px;
+    
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin-left: 100px;
+}
+h1{
+    text-align: center;
+}
+#a1{
+    font-size: 2cm;
+}
+button{
+    background-color: brown;
+    margin-left: 160px;
+}
+#b1{
+    margin-top: 64px;
+}
+#b2{
+    margin-top: 120px;
+}
+#b3{
+    margin-top: 120px;
+}
+#b4{
+    margin-top: 100px;
+}
+body{
+    background-image: url("./images/bg2.webp");
+}
